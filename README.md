@@ -10,7 +10,7 @@ Grand Honor is a popular action game. Survive as much you can, defeat characters
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/105162197/192110610-7f0281bf-433e-4305-9163-681986a749f0.png">
 
 #### Message from Operation team (design)
-Next design update on: Alpha 3.6
+> Next design update on: Alpha 3.6
 
 ## Notes:
 - Xcode Version: <b>7.0 Beta 1</b>| Latest iOS: <b>16</b>
