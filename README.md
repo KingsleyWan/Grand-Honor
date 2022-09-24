@@ -9,7 +9,7 @@ Grand Honor is a popular action game. Survive as much you can, defeat characters
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/105162197/192110610-7f0281bf-433e-4305-9163-681986a749f0.png">
 
-#### Message from Operation team (design)
+#### Message from Operation team (lead designer) [16/09/2022]:
 > Next design update on: Alpha 3.6
 
 ## Notes:
