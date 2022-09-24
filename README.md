@@ -5,32 +5,33 @@
 # 2D and 3D cross-platform game engine
 Grand Honor is a popular action game. Survive as much you can, defeat characters and opponents gain experience and earn gold, with experience used to unlock character's abilities or further augment the ability's power, and gold used to purchase items at the store, and upgrade/purchase new characters.
 
-# Gameplay design (screen shots)
+# Gameplay design (screenshots)
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/105162197/192110610-7f0281bf-433e-4305-9163-681986a749f0.png">
 
-Next design update on: Alpha 1.1
+#### Message from Operation team (design)
+Next design update on: Alpha 3.6
 
 ## Notes:
-- Xcode Version: <b>9.0 Beta 2</b>| Latest iOS: <b>10.3</b>
+- Xcode Version: <b>7.0 Beta 1</b>| Latest iOS: <b>16</b>
 - Using Xcode's simulator will be a bit laggy. Use Device for best experience.
 - Current version: <b>Alpha v3.5.3</b>.
-- <b>*Best experience with iPhone 7 Plus. </b>
+- <b>*Best experience with iPhone X </b>
  
-#### Message from developer [07/18/2017]:
-> This week I had attended many meetings, and due to lack of time, I did not work on the treant class. I have finished the sprites for treant. But, I want to let you know that this project will slow down significantly since I am working on other projects.<Br>
+#### Message from developer lead [15/09/2022]:
+> This week the team had attended many meetings, and due to lack of time, Some did not work on the monster class. I want to let all teams know that this project will delay for 2 days significantly since I am working on other projects but would be assigning some team members to promptly close the gaps.<Br>
 I have received many private messages about using the source code, so I will use this place to answer it.<Br>
-Even though this is an open source project, but this does <b>NOT</b> mean you can use it for commercial-purpose or publish on AppStore by re-skin/re-modeling the sprites. The main purpose of this project is to show what we can achieve with the Apple's SpriteKit and it is also my hobby to do so. Of course, if your purpose is just to learn and/or practice, you are free to use the code as you like. 
+Since this is a new product, the core development members will authorize and promptly update the product owner and designers on the shared and source code. The main purpose of this project is to show what we can achieve the demand and expectation of our users on new game release.
 
 ## TODO list:
-   - [✔️] Add Basic Magnetic Field on Characters - <b>07/08/2017</b>
+   - [✔️] Add Basic Magnetic Field on Characters - <b>08/08/2022</b>
    - [✔️] Replace regular monsters - <b>07/12/2017</b>
-      - [✔️] Add new regular monsters sprites - <b>07/11/2017</b>
-        - [✔️] Redder - <b>07/11/2017</b>
-        - [✔️] Grenner - <b>07/11/2017</b>
-        - [✔️] Bluer - <b>07/11/2017</b>
-        - [✔️] Pupler - <b>07/11/2017</b>
-   - [*] Add new Boss
+      - [✔️] Add new regular character sprites - <b>08/08/2022</b>
+        - [✔️] lioner - <b>07/09/2022</b>
+        - [✔️] Druid - <b>07/09/2022</b>
+        - [✔️] Purpler - <b>07/09/2022</b>
+        - [✔️] Blacker - <b>07/09/2022</b>
+   - [*] Add new Monsters
      - [*] Add Treant Sprites
      - [] Add Class for Treant
      - [] Add Actions for Treant
@@ -89,10 +90,10 @@ Unless it crashes the game. Above bugs are put in low priority to be fixed.
 - [✔️] Add Singleton Global to access all Sprites
 - [✔️] Add shader to fonts (OpenGL)
 - [✔️] Remove Main.storyboard for faster build time
-- [✔️] Add Bomber Boss in-game
-- [✔️] Add Pinky Boss in-game - <b>06/28/2017</b>
-  - [✔️] Add Pinky Boss Sprites
-  - [✔️] Add Pinky Boss Actions
+- [✔️] Add Bomber Monster in-game
+- [✔️] Add Pinky Monster in-game - <b>16/9/2022</b>
+  - [✔️] Add Pinky Monster Sprites
+  - [✔️] Add Pinky Monster Actions
 - [✔️] Add Labels in Character Selection - <b>06/28/2017</b>
 - [✔️] Add particle effects when selecting character - <b>06/29/2017</b>
 - [✔️] "Fix" and find a better logic for the top bar which displays account progress <b>06/30/2017</b>
