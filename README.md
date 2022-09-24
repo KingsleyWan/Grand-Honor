@@ -1,12 +1,16 @@
 # Grand-Honor
 
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/105162197/192107190-8b3c34cd-f3df-4748-9a62-ad610ed04988.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/105162197/192107190-8b3c34cd-f3df-4748-9a62-ad610ed04988.png">
 
-# A 2D + 3D cross-platform game engine
+## A 2D + 3D cross-platform game engine
 Grand Honor is BCM new action game that target achiever game who fancy fantasy and winning.
 Survive as much you can, defeat characters and opponents gain experience and earn gold, with experience used to unlock character's abilities or further augment the ability's power, and gold used to purchase items at the store, and upgrade/purchase new characters.
 
-# Gameplay design (screenshots)
+# Project Management
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/105162197/192113148-0dab9885-d4d3-4240-b401-3eda8f96d7cc.png">
+
+
+## Gameplay design 
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/105162197/192110610-7f0281bf-433e-4305-9163-681986a749f0.png">
 
@@ -24,7 +28,7 @@ Survive as much you can, defeat characters and opponents gain experience and ear
 I have received many private messages about using the source code, so I will use this place to answer it.<Br>
 Since this is a new product, the core development members will authorize and promptly update the product owner and designers on the shared and source code. The main purpose of this project is to show what we can achieve the demand and expectation of our users on new game release.
 
-## TODO list:
+### TODO list:
    - [✔️] Add Basic Magnetic Field on Characters - <b>08/08/2022</b>
    - [✔️] Replace regular monsters - <b>07/12/2017</b>
       - [✔️] Add new regular character sprites - <b>08/08/2022</b>
@@ -40,8 +44,8 @@ Since this is a new product, the core development members will authorize and pro
    
 [*] = Working [✔️] = Done
 
-## Future Implementations:
-- ### About to join TODO List (Order does not matter):
+### Future Implementations:
+- #### About to join TODO List (Order does not matter):
    - [] Add new drops from monsters (diamonds, trophy... etc?)
       - [] Gems (Red, Green, Purple)
    - [] Add new map
@@ -51,13 +55,13 @@ Since this is a new product, the core development members will authorize and pro
       - [] Imune Item
       - [] Increase Fire Power
       - [] Double Shoot
-- ### High Priority (Order does not matter):
+- #### High Priority (Order does not matter):
    - [] Add Level&Exp System for Account
       - [] Customized UI Progress Bar
       - [] Show level on the Badge
       - [] Show Current Percentage on the Badge
     - [] Add Game Over Scene
-- ### Low Priority (Order does not matter):
+- #### Low Priority (Order does not matter):
    - [] Add Purchase Character Function
    - [] Add Companions System (Each side with a small minion to assist you) - Sidekicks!
    - [] Add new effect for character's death
@@ -67,15 +71,15 @@ Since this is a new product, the core development members will authorize and pro
    - [] Add Character unique skills
    - [] Add new FX for character's bullets
 
-Note: Each new feature moves from Low Priority -> High Priority -> Todo List. In short, low priority items will go up.
+## Note: Each new feature moves from Low Priority -> High Priority -> Todo List. In short, low priority items will go up.
 
-## Discovered Bugs:
+### Discovered Bugs:
 - Pinky completly freeze itself when it kills the player
 
 #### Note about bugs:
 Unless it crashes the game. Above bugs are put in low priority to be fixed. 
 
-## Main Accomplishments:
+### Main Accomplishments:
 - [✔️] Add support for iPhone 8 plus, iPhone X, iPhone 11, iPhone 12, iPhone 13, iPhone 14 
 - [✔️] Preload Textures
   - [✔️] Add progress bar
