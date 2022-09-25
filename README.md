@@ -8,9 +8,9 @@ Survive as much you can, defeat characters and opponents gain experience and ear
 
 
 #### Message from Product team (Product Director) [04/08/2022]:
-> Gameplay 2D/3D Artwork (visual elements)
-> Storyboard narrative, directing player experience
-> Include in-game feedback channel to facilitate player support.
+- Gameplay 2D/3D Artwork (visual elements)
+- Storyboard narrative, directing player experience
+- Include in-game feedback channel to facilitate player support.
 
 # Project Team
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/105162197/192151192-665f57f4-5fa1-4e7e-bfa6-c1b5663d59b0.png">
@@ -20,7 +20,7 @@ Survive as much you can, defeat characters and opponents gain experience and ear
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/105162197/192110610-7f0281bf-433e-4305-9163-681986a749f0.png">
 
-#### Message from Operation team (lead designer) [16/09/2022]:
+#### Message from Operation team (lead designer) [30/09/2022]:
 > Next design update on: Alpha 3.6
 
 ## Notes:
@@ -29,19 +29,19 @@ Survive as much you can, defeat characters and opponents gain experience and ear
 - Current version: <b>Alpha v3.5.3</b>.
 - <b>*Best experience with iPhone X </b>
  
-#### Message from developer lead [15/09/2022]:
+#### Message from developer lead [22/09/2022]:
 > This week the team had attended many meetings, and due to lack of time, Some did not work on the monster class. I want to let all teams know that this project will delay for 2 days significantly since I am working on other projects but would be assigning some team members to promptly close the gaps.<Br>
 I have received many private messages about using the source code, so I will use this place to answer it.<Br>
 Since this is a new product, the core development members will authorize and promptly update the product owner and designers on the shared and source code. The main purpose of this project is to show what we can achieve the demand and expectation of our users on new game release.
 
 ### TODO list:
-   - [✔️] Add Basic Magnetic Field on Characters - <b>08/08/2022</b>
-   - [✔️] Replace regular monsters - <b>07/12/2017</b>
-      - [✔️] Add new regular character sprites - <b>08/08/2022</b>
-        - [✔️] lioner - <b>07/09/2022</b>
-        - [✔️] Druid - <b>07/09/2022</b>
-        - [✔️] Purpler - <b>07/09/2022</b>
-        - [✔️] Blacker - <b>07/09/2022</b>
+   - [✔️] Add Basic Magnetic Field on Characters - <b>27/09/2022</b>
+   - [✔️] Replace regular monsters - <b>27/09/2022</b>
+      - [✔️] Add new regular character sprites - <b>27/09/2022</b>
+        - [✔️] lioner - <b>27/09/2022</b>
+        - [✔️] Druid - <b>27/09/2022</b>
+        - [✔️] Purpler - <b>27/09/2022</b>
+        - [✔️] Blacker - <b>27/09/2022</b>
    - [*] Add new Monsters
      - [*] Add Treant Sprites
      - [] Add Class for Treant
@@ -80,7 +80,7 @@ Since this is a new product, the core development members will authorize and pro
 ## Note: Each new feature moves from Low Priority -> High Priority -> Todo List. In short, low priority items will go up.
 
 ### Discovered Bugs:
-- Pinky completly freeze itself when it kills the player
+- Alpha completely freeze itself when it kills the player
 
 #### Note about bugs:
 Unless it crashes the game. Above bugs are put in low priority to be fixed. 
@@ -92,32 +92,32 @@ Unless it crashes the game. Above bugs are put in low priority to be fixed.
   - [✔️] Divide Atlas into smaller atlas
 - [✔️] Coin System
 - [✔️] Character Selection
-  - [✔️] Alpha
-  - [✔️] Beta
-  - [✔️] Celta
-  - [✔️] Delta
+  - [✔️] Alpha II
+  - [✔️] Ceta
+  - [✔️] Velta
+  - [✔️] Kelta
 - [✔️] Add Backup Logic
 - [✔️] Add Progress Track
 - [✔️] Add Singleton Global to access all Sprites
 - [✔️] Add shader to fonts (OpenGL)
 - [✔️] Remove Main.storyboard for faster build time
 - [✔️] Add Bomber Monster in-game
-- [✔️] Add Pinky Monster in-game - <b>16/9/2022</b>
-  - [✔️] Add Pinky Monster Sprites
-  - [✔️] Add Pinky Monster Actions
-- [✔️] Add Labels in Character Selection - <b>06/28/2017</b>
-- [✔️] Add particle effects when selecting character - <b>06/29/2017</b>
-- [✔️] "Fix" and find a better logic for the top bar which displays account progress <b>06/30/2017</b>
-- [✔️] Add customized font ttf for Gold Label with OpenGL shader <b>06/30/2017</b>
-- [✔️] Re-implement logic to increase enemies' HP and Velocity over time  <b>07/03/2017</b>
+- [✔️] Add Kinky Monster in-game - <b>26/9/2022</b>
+  - [✔️] Add Kinky Monster Sprites
+  - [✔️] Add Kinky Monster Actions
+- [✔️] Add Labels in Character Selection - <b>26/09/2022</b>
+- [✔️] Add particle effects when selecting character - <b>27/09/2022</b>
+- [✔️] "Fix" and find a better logic for the top bar which displays account progress <b>27/09/2022</b>
+- [✔️] Add customized font ttf for Gold Label with OpenGL shader <b>27/09/2022</b>
+- [✔️] Re-implement logic to increase enemies' HP and Velocity over time  <b>27/09/2022</b>
 - [✔️] Add new bullets for characters:
-  - [✔️] Add Alpha Bullet Sprites <b> 07/04/2017 </b>
-  - [✔️] Add Beta Bullet Sprites <b> 07/04/2017 </b>
-  - [✔️] Add Celta Bullet Sprites <b> 07/04/2017 </b>
-  - [✔️] Add Delta Bullet Sprites <b> 07/04/2017 </b>
-- [✔️] Add Class to create custom bullet sprite <b> 07/04/2017 </b>
-  - [✔️] Add Bullet Power Logic - <b> 07/08/2017 </b>
-  - [✔️] Add Upgrade Bullet Function - <b> 07/08/2017 </b>
-  - [✔️] Add Upgrade Scene on Character Scene <b> 07/05/2017 </b>
-- [✔️] Display current level of bullet and its image on Character Scene <b> 07/05/2017 </b>
+  - [✔️] Add Alpha Bullet Sprites <b> 26/09/2022 </b>
+  - [✔️] Add Ceta Bullet Sprites <b> 26/09/2022 </b>
+  - [✔️] Add Velta Bullet Sprites <b> 26/09/2022 </b>
+  - [✔️] Add Kelta Bullet Sprites <b> 26/09/2022 </b>
+- [✔️] Add Class to create custom bullet sprite <b> 27/09/2022 </b>
+  - [✔️] Add Bullet Power Logic - <b> 26/09/2022 </b>
+  - [✔️] Add Upgrade Bullet Function - <b> 27/09/2022 </b>
+  - [✔️] Add Upgrade Scene on Character Scene <b> 27/09/2022 </b>
+- [✔️] Display current level of bullet and its image on Character Scene <b> 27/09/2022 </b>
 
