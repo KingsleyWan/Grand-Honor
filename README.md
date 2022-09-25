@@ -72,7 +72,7 @@ Since this is a new product, the core development members will authorize and pro
    - [] Add Companions System (Each side with a small minion to assist you) - Sidekicks!
    - [] Add new effect for character's death
    - [] Add sound when Fireball is incoming
-   - [] Pinky constant speed
+   - [] Kinky constant speed
    - [] Add Unit Test
    - [] Add Character unique skills
    - [] Add new FX for character's bullets
