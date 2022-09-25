@@ -6,11 +6,14 @@
 Grand Honor is BCM new action game that target achiever game who fancy fantasy and winning.
 Survive as much you can, defeat characters and opponents gain experience and earn gold, with experience used to unlock character's abilities or further augment the ability's power, and gold used to purchase items at the store, and upgrade/purchase new characters.
 
-#### Message from Product team (Product Director) [04/08/2022]:
-New game include  in-game feedback channel to facilitate support.
 
-# Project Management
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/105162197/192113148-0dab9885-d4d3-4240-b401-3eda8f96d7cc.png">
+#### Message from Product team (Product Director) [04/08/2022]:
+> Gameplay 2D/3D Artwork (visual elements)
+> Storyboard narrative, directing player experience
+> Include in-game feedback channel to facilitate player support.
+
+# Project Team
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/105162197/192151192-665f57f4-5fa1-4e7e-bfa6-c1b5663d59b0.png">
 
 
 ## Gameplay design 
