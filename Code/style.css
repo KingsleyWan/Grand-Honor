@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  .center { /*To center an image, set left and right margin to auto and make it into a block element */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:100%;
+    height:auto;
+  }
+  
+  .left {
+    display: inline-block;
+    height: 600px;
+    background-color: #3C44BD;
+    border: 10px solid black;
+    padding: 20px;  
+    float: left;
+    width: 60%; /* The width is 20%, by default */
+  }
+  
+  .main {
+    display: inline-block;
+    height: 600px;
+    background-color: #E7DB2F;
+    padding: 20px;
+    float: left;
+    width: 20%; /* The width is 60%, by default */
+  }
+  
+  .right {
+    display: inline-block;
+    height: 600px;
+    background-color: #D64C43;
+    padding: 20px;
+    float: left;
+    width: 20%; /* The width is 20%, by default */
+  }
+  
+  
+  /* Use a media query to add a break point at 800px: */
+  @media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+  
+  
